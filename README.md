@@ -1,9 +1,10 @@
 # btc-api-vue
 
-> aplicación de noticias sobre bitcoin dada por una API en Vuejs
+aplicación de noticias sobre bitcoin dada por una API en Vuejs
 
 ## Build Setup
 
+``` bash
 # install dependencies
 npm install
 
@@ -15,3 +16,4 @@ npm run build
 
 # build for production and view the bundle analyzer report
 npm run build --report
+```
